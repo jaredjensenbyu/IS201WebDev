@@ -1,0 +1,48 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(231, 231, 248);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bold{
+    font-weight: bold;
+    font-size: medium;
+}
+li{
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.homepageBody{
+    column-count: 3;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font: rgb(2, 2, 37);
+}
+.aboutmeBody{
+    column-count: 2;
+    column-gap: 20mm;
+}
+
+#top{
+    font-size: 5px;
+    text-decoration: underline;
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(18, 18, 39);
+}
